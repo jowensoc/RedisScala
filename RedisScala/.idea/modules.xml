@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RedisScala.iml" filepath="$PROJECT_DIR$/.idea/modules/RedisScala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RedisScala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/RedisScala-build.iml" />
+    </modules>
+  </component>
+</project>
